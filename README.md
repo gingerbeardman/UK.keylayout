@@ -33,3 +33,6 @@ Copy UK.keylayout over existing version, log out, then log back in again.
 18 February: Added Shift+3 -> £ (pound sterling)  
 17 February: Initial, private release  
 2005
+
+## License
+This is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
