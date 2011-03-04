@@ -27,9 +27,9 @@ and login again
 Copy UK.keylayout over existing version, log out, then log back in again.
 
 ##Changelog
-26 April: Changed Option+3 -> #, Option+§ -> ` (grave or back-tick)  
+26 April: Changed Option+3 -> #, Option+§ -> \` (grave or back-tick)  
 2007
-06 March: Added Option+3 -> ` (grave or back-tick)  
+06 March: Added Option+3 -> \` (grave or back-tick)  
 18 February: Added Shift+3 -> £ (pound sterling)  
 17 February: Initial, private release  
 2005
