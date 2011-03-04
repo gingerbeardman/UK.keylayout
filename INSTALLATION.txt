@@ -1,0 +1,29 @@
+UK.keylayout for Mac OS X 10.2 or higher
+by Matt Sephton <matt@gingerbeardman.com>
+website http://www.gingerbeardman.com
+thanks to http://wordherd.com/keyboards/
+
+How to install:
+1. Unzip archive
+2. Copy UK.keylayout to /Library/Keyboard Layouts
+3. Logout and back in
+4. System Preferences/International/Input Menu
+5. Scroll down half-way to UK, check
+6. Scroll back to top, uncheck previous setting
+
+Troubleshooting
+If you can't do step 6) above, check "Show input menu in menu bar" 
+and choose the UK layout manually using the input menu. If the 
+setting will not stick, try checking "Use one input source in all 
+documents" and login again.
+
+Keys mapped:
+\ -> #
+` -> \
+Shift+2 -> "
+Shift+' -> @
+Shift+\ -> ~
+Shift+` -> |
+Shift+3 -> £
+Option+3 -> #
+Option+¤ -> `
